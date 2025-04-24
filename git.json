@@ -1,0 +1,13 @@
+[
+    {
+      "p_rel_url": "nikhila272/DAMG7370-Azure-ProjectGR6/refs/heads/main/People.csv",
+      "p_sink_folder": "People",
+      "p_sink_file": "People.csv"
+    },
+    {
+      "p_rel_url": "nikhila272/DAMG7370-Azure-ProjectGR6/refs/heads/main/Returns.csv",
+      "p_sink_folder": "Returns",
+      "p_sink_file": "Returns.csv"
+    }
+  ]
+  
